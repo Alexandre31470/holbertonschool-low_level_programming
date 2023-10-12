@@ -1,5 +1,11 @@
 #include <stdio.h>
-int main(void)/*Fonction principale main*/
+/**
+ * main - Prints Programming is like building a multilingual
+ *                puzzle, followed by a new line.
+ *
+ * Return: Always Zero.
+ */
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 
