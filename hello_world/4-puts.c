@@ -1,8 +1,7 @@
-#include <stdio.h>
-/*Fonction principale*/
-int main(void) {
+#include<stdio.h>
+int main() {
 
-    /* Afficher un texte */
+  
     puts("/"Programming is like building a multilingual puzzle");    
       
         
