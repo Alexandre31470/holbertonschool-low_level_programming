@@ -1,3 +1,4 @@
+//File : 6-size.c
 #include<stdio.h>                                                                                                                  
 /**                                                                                                                                 
 * main Cette operation va donner la taille des différents types                                                                                                                
