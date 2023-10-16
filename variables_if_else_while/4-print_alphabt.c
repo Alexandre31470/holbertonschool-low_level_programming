@@ -12,9 +12,9 @@ int main(void)
 {
 
 	if ((alphabet == 'q') || (alphabet == 'e'))
-	alphabet++;	
+	alphabet++;
 	
-	else 
+	else
 {
 	putchar(alphabet);
 	alphabet++;
