@@ -1,11 +1,13 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
  *main - Nombre Aleatoire
  *
- *Return : Always 0 (success)
+ *Return: Always 0 (success)
  */
+
 int main(void)
 {
 	int n;
