@@ -1,22 +1,15 @@
 #include <stdio.h>
 /**
- * main - 
- *
- * Return: Always 0 (success)
+  *main - prints all single digits
+  *Return: 0
  */
 int main(void)
 {
     int num;
 
-    num = 0;
-
-    while (num <= 9)
+    for (num = 48; num < 58; num++)
     {
-        putchar(num + '0');
-        if (num < 9)
-      
-        num++;
+	putchar('\n');
     }
-    putchar('\n');
-    return (0);
+    return(0);
 }
