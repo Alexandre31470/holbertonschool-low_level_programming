@@ -1,10 +1,12 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
-
-/* Cette fonction renvoie un nombre aléatoirie */
-
+/*
+ *main - Nombre Aleatoire
+ *
+ * 
+ *Return : Always 0 (success)
+ */
 int main(void)
 {
 int n;
