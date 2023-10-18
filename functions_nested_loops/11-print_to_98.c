@@ -10,7 +10,7 @@ if (i >= 98)
 {
 while (i > 98)
 printf("%d, ", i--);
-printf("%d\n" ,i);
+printf("%d\n", i);
 }
 
 else
